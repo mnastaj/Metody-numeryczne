@@ -45,7 +45,7 @@ end
 calka_M
 
 %Metoda Weddle'a
-m_N = 90;
+m_N = 840;
 Ik_N = [41 216 27 272 27 216 41];
 index = 1;
 for N = M
